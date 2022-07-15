@@ -13,3 +13,6 @@
 [submodule "hexspeak | w3bwujQWSg3rIaKAz93j"]
 	path = hexspeak | w3bwujQWSg3rIaKAz93j
 	url = https://github.com/nasihps/hexspeak_contest
+[submodule "techbuddies | OQehrdDHL3mPGKQm0O4D"]
+	path = techbuddies | OQehrdDHL3mPGKQm0O4D
+	url = https://github.com/sadiq414/airtable-contest
