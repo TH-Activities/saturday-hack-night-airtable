@@ -10,3 +10,6 @@
 [submodule "SK | bE79FzxfYBjIeHziUSzr"]
 	path = SK | bE79FzxfYBjIeHziUSzr
 	url = https://github.com/Sreejith2/Airtable-.git
+[submodule "hexspeak | w3bwujQWSg3rIaKAz93j"]
+	path = hexspeak | w3bwujQWSg3rIaKAz93j
+	url = https://github.com/nasihps/hexspeak_contest
